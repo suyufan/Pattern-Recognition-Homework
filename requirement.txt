@@ -1,0 +1,7 @@
+pandas
+numpy
+cv2
+random
+time
+train_test_split
+accuracy_score
